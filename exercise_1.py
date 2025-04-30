@@ -8,8 +8,8 @@ import time
 driver = webdriver.Chrome()
 driver.get("https://www.demoblaze.com/")
 wait = WebDriverWait(driver, 10)
-NEW_USERNAME = "txin8567"
-NEW_PASSWORD = "Txinpassword934"
+NEW_USERNAME = "txin0567"
+NEW_PASSWORD = "Txinpassword034"
 
 
 # Helper: Wait for any modal backdrop to disappear
