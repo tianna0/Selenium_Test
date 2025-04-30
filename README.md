@@ -17,8 +17,15 @@ Use selenium to perform end-to-end web UI testing for this site https://www.demo
 12. Verify Pagination page (next and previous buttons) works as expected
 
 ## Invalid Test Cases
-1. invalid input
-2. Boundary and edge
-3. Equivalence classes
-4. Exception handling
-5. Business logic
+1. Invalid Login – Wrong Password
+2. Invalid Logout – Without Login
+3. Invalid Contact Form – Empty Fields
+4. Invalid Product List – DOM Cleared
+5. Invalid Product Click – Click Empty Area
+6. Invalid Category Filter – Repeated Click
+7. Invalid Cart Load – Empty Cart
+8. Invalid Remove From Empty Cart
+9. Invalid Add to Cart – Excessive Quantity
+10. Invalid Order – Incomplete Form
+11. Invalid Create Account – Duplicate Username
+12. Invalid Pagination – Already Last Page
