@@ -12,9 +12,9 @@ Use selenium to perform end-to-end web UI testing for this site https://www.demo
 7. Verify Add to cart functionality works as expected
 8. Verify Cart page loads as expected
 9. Verify Order Placement works as expected
-10.Verify Remove product from cart functionality works as expected
-11.Verify Create Account functionality works as expected
-12.Verify Pagination page (next and previous buttons) works as expected
+10. Verify Remove product from cart functionality works as expected
+11. Verify Create Account functionality works as expected
+12. Verify Pagination page (next and previous buttons) works as expected
 
 ## Invalid Test Cases
 1. invalid input
