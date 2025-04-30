@@ -1,4 +1,6 @@
-## Use selenium to perform end-to-end web UI testing for this site https://www.demoblaze.com/ to verify the following areas:
+## Selenium end-to-end testing
+
+Use selenium to perform end-to-end web UI testing for this site https://www.demoblaze.com/ to verify the following areas:
 
 ## Postive Test Cases
 1. Verify Login page works as expected
